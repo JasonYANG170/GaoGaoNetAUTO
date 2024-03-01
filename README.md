@@ -2,7 +2,7 @@
     <h1>GaoGaoNetAUTO 糕糕校园网自动认证</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/GaoGaoNetAUTO?label=License&style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/GaoGaoNetAUTO?style=for-the-badge">
-	<img src="https://img.shields.io/github/languages/count/JasonYANG170/GaoGaoNetAUTO?logo=C++&style=for-the-badge">
+	<img src="https://img.shields.io/github/languages/count/JasonYANG170/GaoGaoNetAUTO?logo=CPLUSPLUS&style=for-the-badge">
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
