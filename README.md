@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 <div align="center">
     <h1>GaoGaoNetAUTO 糕糕校园网自动认证</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/GaoGaoNetAUTO?label=License&style=for-the-badge">
